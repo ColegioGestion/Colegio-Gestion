@@ -1,0 +1,91 @@
+@CHARSET "UTF-8";
+body{
+text-align:center;
+margin:0 auto;
+}
+#contenido{
+margin: 0 auto;
+text-align:left;
+width:90%;
+}
+/*diferentes zonas de la pagina*/
+div#cabezera {
+    background-color: #5768FF;
+}
+div#menuizquierda {
+   float: left;
+   background-color: #CEF6F5;
+}
+div#cuerpo {
+	align: center;
+	background-color: #F2F2F2;
+}
+div#menuderecha {
+    float: right;
+    background-color: #CEF6F5;
+    width: 130px;
+}
+div#piepagina {
+    text-align: center;
+    background-color: #A4A4A4;
+}
+/*diferentes tipos de tabla*/
+.tablaconborde th, .tablaconborde td {
+  text-aling: center;
+  border: 1px solid #000;
+}
+.tablaquery th{
+  border: 1px solid #000;	
+}
+table#tablabordenegro{
+	float: center;
+    text-align: center;
+    border: 1px solid #000;
+}
+table#tablabordenegro2 td{
+	float: center;
+    text-align: center;
+    border: 1px solid #000;
+}
+table#encuesta {
+    text-align: center;
+    border: 1px solid #000;
+}
+table#preguntasadmin {
+	float: center;
+	width:70%
+}
+table#tablaporcentajes {
+	float: center;
+	text-align: center;
+	width:80%;
+	border: 1px solid #000;
+}
+/*diferentes tipos de texto*/
+div#tituloseccion {
+    text-align: center;
+    background-color: #5FC9BF;
+}
+div#advertencia {
+    text-align: center;
+    background-color: #FF8000;
+}
+/*Enlaces*/
+a:link,a:visited {
+	color: #003399;
+	font-weight: bold;
+}
+
+
+a:hover {
+	background: #003399;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+table#calendario td{
+	text-align: top;
+	border: 1px solid;
+	height: 50px;
+	width: 140px;
+}

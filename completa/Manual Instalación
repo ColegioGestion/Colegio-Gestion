@@ -1,0 +1,17 @@
+Colegio Gestión 1.0
+
+Requisitos
+*Servidor web equipado con PHP y con una base de datos SQL
+
+Instalación
+*Crear una base de datos SQL
+*Subir todos los archivos al servidor web
+*Cuando este todo subido al servidor, abrir el archivo install.php desde el navegador
+*Cuando entre en el, le debera aparecer en grande "Instalación Colegio Gestión", cuando vea eso complete todos los datos que le pide y pulse 
+enviar
+
+
+
+Ya el sistema esta listo para ser utilizado. Cualquier duda o problema contacte con: colegiogestion00@gmail.com
+
+
